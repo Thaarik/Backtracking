@@ -1,0 +1,113 @@
+/*heading design */
+.heading1 {
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+
+.copy-right {
+    margin-top: 0px;
+}
+
+/* tree image */
+.tree {
+    text-align: center;
+}
+
+/* code design */
+code {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #660000;
+}
+
+.codeone {
+    font-size: 17px;
+    color: #660000;
+    margin-left: 2px;
+}
+
+.codetwo {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #660000;
+}
+
+.codethree {
+    color: blue;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+/* table design */
+table {
+    border: 1px black solid;
+    margin: auto;
+    font-size: 18px;
+}
+
+td {
+    border: 1px black solid;
+    font-size: 16px;
+    padding: 3px;
+}
+
+.tableone {
+    border: 1px black solid;
+    margin: auto;
+    font-size: 18px;
+}
+
+.tableone td {
+    border: 1px black solid;
+    font-size: 16px;
+    padding: 3px;
+}
+
+.table-background {
+    background: rgb(204, 204, 204);
+}
+
+.codefour {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: black;
+
+    font-weight: bold;
+}
+
+.tabletwo {
+    text-align: center;
+    background-color: #dddddd;
+    border: 1px;
+    border-spacing: 0;
+    border-collapse: separate;
+
+}
+
+.tabletwo td {
+    width: 44px;
+    padding: 6px;
+    font-size: 1px;
+}
+
+.tablethree {
+    text-align: center;
+    background-color: #dddddd;
+    border: 1px;
+    border-spacing: 0;
+    border-collapse: separate;
+}
+
+.tablethree td {
+    width: 44px;
+    padding: 6px;
+}
+
+.tablethree tbody td:first-of-type {
+    background-color: white;
+    border: none;
+    font-size: medium;
+    width: 180px;
+    text-align: left;
+}
+
+.stuck {
+    margin-left: 38%;
+}
